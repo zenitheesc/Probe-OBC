@@ -1,22 +1,5 @@
-# How to use this template:
-
-When creating a new repository just select this template, or click on the green "use template" button
-
-![new-repo-gif](https://raw.githubusercontent.com/zenitheesc/new-zenith-template/assets/novo-repo.gif)
-
-[Adding the template to a NEW repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-
-Do **NOT** check "Include All Branches"
-
-
-**Delete** this file (README.md). Choose a template and **rename** it as 'README.md'
-
-    For example: **Delete** this file and **rename** the "[TEMPLATE]README.md" to just "README.md". Wait a few minutes for the bot to process the changes 	and you're good to go 😃
-
----
-
-<h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h1 align="center" style="color:white; background-color:black">Probe-OBC</h1>
+<h4 align="center">On-Board Computer for stratospheric probes, using Zenith Stack</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
@@ -50,23 +33,27 @@ Do **NOT** check "Include All Branches"
 
 <p align="center">
     <a href="#environment-and-tools">Environment and Tools</a> •
-    <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
-    <a href="#how-to-contribute">How to contribute?</a>
+    <a href="#z-hub">Z-Hub</a> •
+    <a href="#comim-obc">Comim OBC</a>
 </p>
+
+This configuration of the Eletrical power system requires a board that monitors the charger and battery, in addition to performing thermal control.
 
 ## Environment and tools
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
+This system was designed using Eagle v.9.4.2
 
-## Steps to run and debug
+## Z-Hub
 
-`A simple list of steps indicating how one can run and test the project.`
+<p align = "center">
+<img src="https://github.com/zenitheesc/Probe-OBC/blob/main/Images/Z-Hub.png"/>
+</p>
 
-## How to contribute
+<a href="https://github.com/zenitheesc/Probe-OBC/tree/main/Hardware/Comim_OBC-v.3.0"><h2>Comim OBC</h2></a>
 
-`(optional, depends on the project) list of simple rules to help people work on the project.`
-
-`Examples: How to format a pull request\n How to format an issue`
+<p align = "center">
+<img src="https://github.com/zenitheesc/Probe-OBC/blob/main/Images/Comim.png"/>
+</p>
 
 ---
 
