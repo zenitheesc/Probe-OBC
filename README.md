@@ -34,7 +34,7 @@
 <p align="center">
     <a href="#environment-and-tools">Environment and Tools</a> •
     <a href="#z-hub">Z-Hub</a> •
-    <a href="#comim-obc">Comim OBC</a>
+    <a href="#ada-obc">Ada OBC</a>
 </p>
 
 This configuration of the Eletrical power system requires a board that monitors the charger and battery, in addition to performing thermal control.
@@ -49,10 +49,10 @@ This system was designed using Eagle v.9.4.2
 <img src="https://github.com/zenitheesc/Probe-OBC/blob/main/Images/Z-Hub.png"/>
 </p>
 
-<a href="https://github.com/zenitheesc/Probe-OBC/tree/main/Hardware/Comim_OBC-v.3.0"><h2>Comim OBC</h2></a>
+<a href="https://github.com/zenitheesc/Probe-OBC/tree/main/Hardware/Ada_OBC-v.3.0"><h2>Ada OBC</h2></a>
 
 <p align = "center">
-<img src="https://github.com/zenitheesc/Probe-OBC/blob/main/Images/Comim.png"/>
+<img src="https://github.com/zenitheesc/Probe-OBC/blob/main/Images/ADA.png"/>
 </p>
 
 ---
