@@ -9,25 +9,25 @@
     <img src="https://img.shields.io/badge/Linked%20to-EESC--USP-black?style=for-the-badge"/>
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/license/zenitheesc/Probe-OBC?style=for-the-badge"/>
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/issues">
-    <img src="https://img.shields.io/github/issues/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/issues/zenitheesc/Probe-OBC?style=for-the-badge"/>
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/zenitheesc/new-zenith-template?style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/m/zenitheesc/Probe-OBC?style=for-the-badge">
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/contributors/zenitheesc/Probe-OBC?style=for-the-badge"/>
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/commits/main">
-    <img src="https://img.shields.io/github/last-commit/zenitheesc/new-zenith-template?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/last-commit/zenitheesc/Probe-OBC?style=for-the-badge"/>
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/issues">
-    <img src="https://img.shields.io/github/issues-raw/zenitheesc/new-zenith-template?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-raw/zenitheesc/Probe-OBC?style=for-the-badge" />
     </a>
     <a href="https://github.com/zenitheesc/new-zenith-template/pulls">
-    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/new-zenith-template?style=for-the-badge">
+    <img src = "https://img.shields.io/github/issues-pr-raw/zenitheesc/Probe-OBC?style=for-the-badge">
     </a>
 </p>
 
